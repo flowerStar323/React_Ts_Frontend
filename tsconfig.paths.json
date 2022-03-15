@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "/*": ["*"],
+      "app/*": ["app/*"],
+      "assets/*": ["assets/*"],
+      "common*": ["common/*"],
+      "components/*": ["components/*"],
+      "containers/*": ["containers/*"],
+      "context/*": ["context/*"],
+      "hocs/*": ["hocs/*"],
+      "hooks/*": ["hooks/*"],
+      "styles/*": ["styles/*"],
+      "validation/*": ["validation/*"],
+      "features/*": ["features/*"]
+    }
+  }
+}
